@@ -1,0 +1,1 @@
+export default () => <h1>Next Starter</h1>;
